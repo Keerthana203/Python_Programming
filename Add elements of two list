@@ -1,0 +1,12 @@
+Add elements of two lists
+
+SOLUTION:
+
+arr1 = [1, 3, 5]
+arr2 = [3, 5, 2]
+
+res_list = []
+for i in range(0, len(res_list)):
+  res_list.append(arr1[i] + arr2[i])
+
+print(res_list)
